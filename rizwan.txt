@@ -7,3 +7,5 @@ change 2
 change 3
 
 changes for branch 1
+changes for branch 1
+changes for branch 1
