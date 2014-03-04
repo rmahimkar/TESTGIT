@@ -11,8 +11,12 @@ changes for branch 1
 changes for branch 1
 changes for branch 1 at 18:55
 change at 10:17
+<<<<<<< HEAD
  
 changed by eriz 11:15
  
 changed by ps
  
+=======
+changed by ps
+>>>>>>> c4c03a4e405c5f0684a6207ab4f9df833e5c8622
