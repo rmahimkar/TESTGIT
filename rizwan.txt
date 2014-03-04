@@ -2,7 +2,11 @@ this is rizwan
 delete me 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 changes for branch 1  by rizwan + pramod
+=======
+changes for branch 1 by pramod
+>>>>>>> ff2d3c6d49b5dcaf31dcdbc2ea868dab07780d96
 =======
 changes for branch 1 by pramod
 >>>>>>> ff2d3c6d49b5dcaf31dcdbc2ea868dab07780d96
